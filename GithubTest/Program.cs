@@ -1,11 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, feature udvikling!");
-
-int number = 0;
-while (number < 10)
+for (int i = 0; i < 10; i++)
 {
-
-    Console.WriteLine("Hello");
-    Console.WriteLine("hehehe");
-    number++;
+    Console.WriteLine("Sup");
 }
